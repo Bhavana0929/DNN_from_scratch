@@ -1,1 +1,1 @@
-# Kidney_disease_classification_deep_learning_problem
+# Deep Neural Network from scratch
